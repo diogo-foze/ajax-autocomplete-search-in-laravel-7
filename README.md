@@ -78,10 +78,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-## ajax-autocomplete-search-in-laravel-7
+- [ajax-autocomplete-search-in-laravel-7].
+- [composer create-project --prefer-dist laravel/laravel ajax-autocomplete-search-in-laravel-7].
+- [php artisan make:migration create_items_table].
+- [php artisan migrate].
 
-# composer create-project --prefer-dist laravel/laravel ajax-autocomplete-search-in-laravel-7
-
-# php artisan make:migration create_items_table
-
-# php artisan migrate
