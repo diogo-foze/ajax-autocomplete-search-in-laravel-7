@@ -83,3 +83,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 - composer create-project --prefer-dist laravel/laravel ajax-autocomplete-search-in-laravel-7.
 - php artisan make:migration create_items_table.
 - php artisan migrate.
+- php artisan make:model Item
+- php artisan make:controller SearchController
+- php artisan serve
