@@ -11,6 +11,7 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
+        $this->call('ItemTableSeeder'); // comoser dump-autoload -> php artisan db:seed
         // $this->call(UserSeeder::class);
     }
 }
